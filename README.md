@@ -1,1 +1,3 @@
 # Networking
+### Design a full-fledged network for an organization with multiple subnets
+Apex University, is an enterprise like East West University, owns many computers, with a complex network infrastructure. Apart from wired internet access to all the classrooms, labs, employee PCs, library and other administrative and academic wings, the university also provides wireless internet access for every campus. On top of that the university runs complex networked systems to support several of its business process like admissions, advising, results, eTender, library management, accounts and so on. This complex network infrastructure is subnetted and switching/routing mechanisms are in practice.
